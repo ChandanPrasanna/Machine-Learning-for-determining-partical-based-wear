@@ -31,19 +31,19 @@ The workflow includes **feature engineering, regularization-based feature select
    - Apply feature selection (Lasso, Ridge, PCA) → `reduced_feature_dataset.csv`.  
 
 2. **Run baseline model**  
-   - Execute `Linear_Regression.py` to understand feature contributions.  
+   - Execute `Linear_Regression.ipynb` to understand feature contributions.  
 
 3. **Apply regularization**  
-   - Run `Lasso_Ridge.py` to identify significant features and compare datasets.  
+   - Run `Lasso_Ridge.ipynb` to identify significant features and compare datasets.  
 
 4. **Check dimensionality reduction**  
-   - Run `PCA.py` to validate feature groupings and redundancy.  
+   - Run `PCA.ipynb` to validate feature groupings and redundancy.  
 
 5. **Train nonlinear model**  
-   - Run `Decision_Tree.py` to capture nonlinear interactions.  
+   - Run `Decision_Tree.ipynb` to capture nonlinear interactions.  
 
 6. **Optimize complex model**  
-   - Run `GA_ANN.py` to optimize neural networks with Genetic Algorithm.  
+   - Run `GA_ANN.ipynb` to optimize neural networks with Genetic Algorithm.  
 
 7. **Compare performance**  
    - Collect R², MAE, and residual plots from outputs for all models.  
