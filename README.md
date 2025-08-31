@@ -48,10 +48,3 @@ The workflow includes **feature engineering, regularization-based feature select
 7. **Compare performance**  
    - Collect R², MAE, and residual plots from outputs for all models.  
 
----
-
-## ⚙️ How to Use  
-
-1. **Install dependencies:**  
-   ```bash
-   pip install -r requirements.txt
