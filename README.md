@@ -1,7 +1,7 @@
-# Particle-Based Wear Prediction using Machine Learning
+# A DEM-driven machine learning framework for abrasive wear prediction
 
-This repository contains the code, data, and workflows used in my M.Tech thesis research project titled:  
-**"Prediction of Particle-Based Wear Using Machine Learning"**.  
+This repository contains the code, data, and workflows used in my research project titled:  
+**"A DEM-driven machine learning framework for abrasive wear prediction"**.  
 
 The project combines **Discrete Element Method (DEM) simulations** with **machine learning models** to predict wear behavior based on material, process, and geometric properties.  
 The workflow includes **feature engineering, regularization-based feature selection, PCA analysis, and supervised ML models** (Linear Regression, Lasso, Ridge, Decision Tree, and GA-optimized ANN).
